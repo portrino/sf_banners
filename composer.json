@@ -16,7 +16,7 @@
   ],
   "keywords": ["TYPO3 CMS", "banners", "banner management", "fluid", "extbase"],
   "license": ["GPL-2.0+"],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "autoload": {
 	"psr-4": {
 	  "DERHANSEN\\SfBanners\\": "Classes"
